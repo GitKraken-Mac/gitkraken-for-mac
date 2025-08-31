@@ -14,14 +14,6 @@
 
 ---
 
-**Short Description:**  
-GitKraken Mac – a modern Git client with an intuitive interface for developers.  
-
-**SEO Description:**  
-Download GitKraken for Mac – the best Git client with visual commits, branching, Gitflow, and GitHub/GitLab integration.  
-
----
-
 ## Installation via .dmg:
 
 1. Install the `.dmg` file using the button above.  
